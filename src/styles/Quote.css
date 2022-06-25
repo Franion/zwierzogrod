@@ -31,3 +31,9 @@
 .quoteTxt {
     font-size: 23px;
 }
+
+@media only screen and (max-width: 600px) {
+    .grid-item {
+        width: 300px;
+    }
+}
