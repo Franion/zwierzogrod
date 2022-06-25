@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/zwierzogrod/static/css/main.e2527714.css",
+    "main.js": "/zwierzogrod/static/js/main.5a67f1df.js",
+    "static/js/787.0112f14f.chunk.js": "/zwierzogrod/static/js/787.0112f14f.chunk.js",
+    "static/media/jumbotronbg3.png": "/zwierzogrod/static/media/jumbotronbg3.7c599394176ed3c3633f.png",
+    "static/media/doggoCrazyRun.png": "/zwierzogrod/static/media/doggoCrazyRun.206852fdc6b89db07384.png",
+    "static/media/doggo2paws.png": "/zwierzogrod/static/media/doggo2paws.b5d7ac06013bae5c2157.png",
+    "static/media/doggoStretch.png": "/zwierzogrod/static/media/doggoStretch.bf76f2b32ad5eea3edfc.png",
+    "index.html": "/zwierzogrod/index.html",
+    "main.e2527714.css.map": "/zwierzogrod/static/css/main.e2527714.css.map",
+    "main.5a67f1df.js.map": "/zwierzogrod/static/js/main.5a67f1df.js.map",
+    "787.0112f14f.chunk.js.map": "/zwierzogrod/static/js/787.0112f14f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2527714.css",
+    "static/js/main.5a67f1df.js"
+  ]
+}
