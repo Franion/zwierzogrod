@@ -8,7 +8,7 @@
 
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, 500px);
+    grid-template-columns: repeat(1fr, 1fr);
     justify-content: center;
     align-items: center;
 }
