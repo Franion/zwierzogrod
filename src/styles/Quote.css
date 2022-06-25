@@ -33,7 +33,17 @@
 }
 
 @media only screen and (max-width: 1024px) {
-    .grid-item {
-        width: 5px;
+    .topQuotemark {
+        align-self: flex-start;
+        font-size: 50px;
+    }
+    
+    .bottomQuotemark {
+        align-self: flex-end;
+        font-size: 20px;
+    }
+    
+    .quoteTxt {
+        font-size: 10px;
     }
 }
