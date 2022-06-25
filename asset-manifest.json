@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/zwierzogrod/static/css/main.40321642.css",
+    "main.css": "/zwierzogrod/static/css/main.8d8560d1.css",
     "main.js": "/zwierzogrod/static/js/main.e364b3dd.js",
     "static/js/787.0112f14f.chunk.js": "/zwierzogrod/static/js/787.0112f14f.chunk.js",
     "static/media/jumbotronbg3.png": "/zwierzogrod/static/media/jumbotronbg3.7c599394176ed3c3633f.png",
@@ -8,12 +8,12 @@
     "static/media/doggo2paws.png": "/zwierzogrod/static/media/doggo2paws.b5d7ac06013bae5c2157.png",
     "static/media/doggoStretch.png": "/zwierzogrod/static/media/doggoStretch.bf76f2b32ad5eea3edfc.png",
     "index.html": "/zwierzogrod/index.html",
-    "main.40321642.css.map": "/zwierzogrod/static/css/main.40321642.css.map",
+    "main.8d8560d1.css.map": "/zwierzogrod/static/css/main.8d8560d1.css.map",
     "main.e364b3dd.js.map": "/zwierzogrod/static/js/main.e364b3dd.js.map",
     "787.0112f14f.chunk.js.map": "/zwierzogrod/static/js/787.0112f14f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40321642.css",
+    "static/css/main.8d8560d1.css",
     "static/js/main.e364b3dd.js"
   ]
 }
