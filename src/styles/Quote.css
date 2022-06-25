@@ -1,0 +1,33 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 500px);
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 500px;
+}
+
+.textPart {
+    display: flex;
+    flex-direction: column;
+}
+
+.topQuotemark {
+    align-self: flex-start;
+    font-size: 80px;
+}
+
+.bottomQuotemark {
+    align-self: flex-end;
+    font-size: 40px;
+}
+
+.quoteTxt {
+    font-size: 23px;
+}

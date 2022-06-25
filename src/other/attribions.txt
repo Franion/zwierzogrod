@@ -1,0 +1,18 @@
+<a href="https://www.freepik.com/vectors/dog-set">Dog set vector created by pch.vector - www.freepik.com</a>
+<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Freepik - Flaticon</a>
+
+        <div className='contact'>
+            <h1 className='header'>Kontakt</h1>
+            <div class="grid-container">
+                <div class="grid-item">
+                    <p>adres</p>
+                    <p>mail</p>
+                    <p>telefon</p>
+                    <p>fb</p>
+                    <p>messenger</p>
+                </div>
+                <div class="grid-item">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3212.3335306320255!2d19.548541446110306!3d51.517293616988944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471a35f88562b069%3A0x43b1d5d0086e3d52!2sHotel%20dla%20zwierz%C4%85t%20Zwierzogr%C3%B3d!5e0!3m2!1spl!2shr!4v1656089942783!5m2!1spl!2shr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" />
+                </div>  
+            </div>
+        </div>

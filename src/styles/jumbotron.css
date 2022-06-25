@@ -1,0 +1,29 @@
+.jumbotron {
+    height: 600px;
+    background-image: url('../images/jumbotronbg3.png');
+    background-size: 1800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.8rem;
+    color: white;
+    flex-direction: column;
+}
+
+@media only screen and (max-width: 1024px) {
+    .jumbotron {
+        height: 600px;
+        background-image: url('../images/jumbotronbg3.png');
+        background-size: 1300px;
+        background-position: center;
+        background-repeat: no-repeat;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        color: white;
+        flex-direction: column;
+    }
+}
